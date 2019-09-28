@@ -44,7 +44,7 @@ a{
     width: 100%;
     text-align: center;
     color:white;     
-    padding: 10% 0% 9.5% 0%;   
+    padding: 10% 0% 9.5% 0%;
 }
 
 .titulo {
@@ -62,10 +62,10 @@ a{
     height: 400px;
 }
 
-.linea1 {  
+.lineaW {  
     background-color: white;
     width: 150px;
-    height: 4px;
+    height: 7px;
 }
 
 
@@ -80,12 +80,24 @@ a{
     width: 100%;
     height: auto;
     text-align: center;
-    font-size: 30px;
-    padding: 5% 0% 50% 0%;
-    
-
+    font-size: 60px;
+    padding: 5% 0% 50% 0%;  
 }
 
+.lineaB {
+    background-color: black;
+    width: 150px;
+    height: 7px
+}
+.fig {
+    margin: 20px 10px;
+}
+
+.imag {
+    width: 80%;
+    height: 80%;
+    margin: 10px 30px;
+}
 
 
 

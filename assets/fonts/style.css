@@ -30,5 +30,6 @@
   content: "\e9d7";
 }
 .icon-star-full:before {
+  font-size: 45px;
   content: "\e9d9";
 }
