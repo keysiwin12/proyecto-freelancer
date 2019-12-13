@@ -81,7 +81,7 @@ a{
     height: auto;
     text-align: center;
     font-size: 60px;
-    padding: 10% 0% 9.5% 0%;
+    padding: 5% 0% 5% 0%;
 }
 
 .lineaB {
@@ -106,9 +106,8 @@ a{
     width: 100%;
     text-align: center;
     color: white;
-    padding: 5% 0% 30% 0%;
+    padding: 5% 0% 12% 0%;
 }
-
 
 h3{
     font-size: 85px;
@@ -116,19 +115,98 @@ h3{
 }
 
 .skills {
-    width: 500px;
+    width: 400px;
     font-size: 25px;
-    margin-left: 380px;
     margin-top: 80px;
-    text-justify: initial;
+    text-align: justify;
+    margin-left: 220px;
+
 }
 
 .info {
-    width: 500px;
+    margin-left: 80px;
+    text-align: justify;
+    width: 400px;
     font-size: 25px;
-    margin-right: 380px;
     margin-top: 80px;
-    
 }
 
 
+.dowland {
+    margin-top: 60px;
+    background: transparent;
+    font-style: italic;
+    color: white;
+    width: 200px;
+    height: 45px;
+    border: 3px solid white;
+}
+
+.contacto{
+    background-color: aqua;
+    width: 100%;
+    text-align: center;
+    padding: 5% 0% 12% 0%;
+}
+
+.cont{
+    margin-left: 20px;
+}
+
+input  {
+    margin-top: 20px;
+    margin-left: 350px;
+    height: 40px;
+    font-style: oblique;
+    border-radius:5px;
+
+}
+textarea {
+    font-style: oblique;
+    margin-left: 350px;
+    margin-top: 20px;
+    border-radius:5px;
+
+}
+
+.enviar {
+    margin-top: 15px;
+    color: white;
+    background-color: transparent;
+    border-radius:5px;
+    padding: 8px;
+    border: 1px solid white;
+}
+
+i{
+    font-size: 30px;
+}
+
+footer {
+    background-color: #2B1165;
+    width: 100%;
+    height: 10%;
+    color: white;
+    z-index: 100;
+    text-align: center;
+}
+
+.footFre {
+   width: 300px;
+}
+
+
+.start {
+    color: aqua;
+}
+
+i {
+    margin-left: 10px;
+}
+
+.around {
+    margin-left: 15px;
+}
+.copy {
+    margin-top: 30px;
+}

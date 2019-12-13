@@ -29,7 +29,18 @@
   font-size: 45px;
   content: "\e9d7";
 }
+
 .icon-star-full:before {
   font-size: 45px;
   content: "\e9d9";
+}
+
+.icon-box-add:before {
+  content: "\e95e";
+  font-size: 45px;
+
+}
+
+.icon-download:before {
+  content: "\e960";
 }
